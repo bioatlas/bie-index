@@ -1,16 +1,16 @@
 openapi: "3.0.0"
 info:
-  title: "ALA BIE service"
+  title: "BIE service"
   description: "Web services for the Biological Information Explorer (BIE)"
   version: "1.0"
-  termsOfServices: "http://www.ala.org.au/"
-  contact:
-    name: "ALA Support"
-    url: "http://www.ala.org.au/"
-    email: "support@ala.org.au"
-  license:
-    name: "ALA licence"
-    url: "http://www.ala.org.au/"
+#  termsOfServices: "http://www.ala.org.au/"
+#  contact:
+#    name: "ALA Support"
+#    url: "http://www.ala.org.au/"
+#    email: "support@ala.org.au"
+#  license:
+#    name: "ALA licence"
+#    url: "http://www.ala.org.au/"
 paths:
   /search{format}:
     get:

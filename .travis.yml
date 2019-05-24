@@ -22,4 +22,4 @@ deploy:
   overwrite: true
   on:
     repo: bioatlas/bie-index
-    all-branches: true  
+    all-branches: true

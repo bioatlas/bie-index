@@ -11,6 +11,8 @@ info:
 #  license:
 #    name: "ALA licence"
 #    url: "http://www.ala.org.au/"
+servers:
+  - url: https://beta.bioatlas.se/bie-index
 paths:
   /search{format}:
     get:
